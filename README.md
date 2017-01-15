@@ -51,7 +51,7 @@ Left to do :
 Progress coin
 ----------------------------------------------
 
-`**Technology is a Pharmakon**`
+**`Technology is a Pharmakon`**
 
 Cure and poison at the same time, technology must be used wisely.
 It will always be the meteor that destroys one civilization, and the long-awaited saving season of another civilization.
@@ -64,7 +64,7 @@ Technology creators and users can not be blind to each side of the progress coin
 Counter intuitiveness
 ----------------------------------------------
 
-`**Innovation is dead, long live innovation**`
+**`Innovation is dead, long live innovation`**
 
 In this innovation playground, counter-intuitiveness is the key building block. Following the illogic rabbit down the madness loft could lead to a creative universe of wonders.
 
@@ -72,7 +72,7 @@ In this innovation playground, counter-intuitiveness is the key building block. 
 Modesty
 ----------------------------------------------
 
-`**True genius is humble**`
+**`True genius is humble`**
 
 Modesty is a must. Ego displaying is one of the only thing that can destroy accomplishments. This type of behavior have no place in good business.
 
@@ -80,7 +80,7 @@ Modesty is a must. Ego displaying is one of the only thing that can destroy acco
 Censorship
 ----------------------------------------------
 
-`**Let there be lights**`
+**`Let there be lights`**
 
 Gotta be a fantasy before it becomes a reality.
 
@@ -90,7 +90,7 @@ Everyone has ideas, and the only judge is execution. Stopping idea-shaming, auto
 Action
 ----------------------------------------------
 
-`**Show and don't tell**`
+**`Show and don't tell`**
 
 Nowadays, brands tend to push their marketing side first, and that's normal, given how many things seems to work around storytelling. These brands just need to remember that, if you want to accomplish real things, you may have to cut the bullshit and start working on concrete one day or another.
 
@@ -100,7 +100,7 @@ Stop brainwashing, we want mind-blowing !
 Decoding and hacking
 ----------------------------------------------
 
-`**Everything can be decoded**`
+**`Everything can be decoded`**
 
 Everything as an explanation and an operating mode, and passionate people have a duty. That duty is to understand their passion, explore it, hack it, make it and eventually contribute to it.
 
@@ -110,7 +110,7 @@ Future is in the hands of explorers, hackers and makers.
 Subcultures and empathy
 ----------------------------------------------
 
-`**We are groot**`
+**`We are groot`**
 
 In business, many tend to overlook everything coming from the entertainment industry, ignoring well established subcultures and conforming to mass culture and status quo. Some even put themselves against such cultures without care. Most of the time, that's a bad move.
 
@@ -120,7 +120,7 @@ Ignoring subcultures would be a big mistake, and innovators should have strong a
 Risk Taking
 ----------------------------------------------
 
- `**All the winners have played**`
+** `All the winners have played`**
 
 Risk-taking is a non-negotiable part of the creative journey. The suffering is part of the game and should be expected and used efficiently. Athletes say "No pain no gain", and gamers thinks "No shoot no loot".
 
@@ -128,7 +128,7 @@ Risk-taking is a non-negotiable part of the creative journey. The suffering is p
 Craziness
 ----------------------------------------------
 
-`**It's a fine line between goodness and madness**`
+**`It's a fine line between goodness and madness`**
 
 To change the rules, and redefine the game, you may have to move the lines. To the outside world you will look first foolish and ludicrous, than dangerous and subversive, and finally trivial and obvious.
 
@@ -136,7 +136,7 @@ To change the rules, and redefine the game, you may have to move the lines. To t
 Inspiration, creativity, curiosity
 ----------------------------------------------
 
-`**Inspiration is a fuel, curiosity a power, and creativity a duty**`
+**`Inspiration is a fuel, curiosity a power, and creativity a duty`**
 
 Writer's block is an issue needing proactive fight. Those able to master one of the tree vital elements that are inspiration, curiosity and creativity will do wonders. Best thing being everyone is capable of it.
 
@@ -146,7 +146,7 @@ We must make sure inspiration flows non-stop, curiosity is sharpened, and creati
 Constraints
 ----------------------------------------------
 
-`**Stronger wind, stronger trees**`
+**`Stronger wind, stronger trees`**
 
 Constraint lead to more creative work, help cutting the superfluous, and bring back pragmatism.
 Trying to never complain about restrictions is almost impossible, but changing perception is often an easy move :
@@ -157,7 +157,7 @@ Constraints must be embraced, challenges must be beloved. Once overcame, constra
 Work & fun
 ----------------------------------------------
 
-`**Work should be fun**`
+**`Work should be fun`**
 
 Grab a sock is time to rock !
 
@@ -167,7 +167,7 @@ Of course work is not always fun, but everyone must try making it funnier. Worki
 Failure
 ----------------------------------------------
 
-`**Failures are catalysts**`
+**`Failures are catalysts`**
 
 In European culture we tend to be afraid of failure. And its hard to get your head wrapped around the idea that there is nothing to be afraid of in failure. Life is an experiment an sometimes these things go wrong and the chemist just take another sample with new knowledge in mind.
 
