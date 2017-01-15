@@ -120,7 +120,7 @@ Ignoring subcultures would be a big mistake, and innovators should have strong a
 Risk Taking
 ----------------------------------------------
 
-** `All the winners have played`**
+**`All the winners have played`**
 
 Risk-taking is a non-negotiable part of the creative journey. The suffering is part of the game and should be expected and used efficiently. Athletes say "No pain no gain", and gamers thinks "No shoot no loot".
 
