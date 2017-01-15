@@ -32,21 +32,7 @@ Left to do :
 - Harmony
 - Difference
 - Accessibility
-- Art&Technology
-- Stress & worries
-- Awareness & bigger picture
-- Blockage
-- Perfection & Inachievement
-- Automation
-- Surprise
-- Consumption mode
-- Best yo self
-- Fuck rulz
-- Right choice
-- Project distractions
-- Abundance & complexity
-- Productivity flow
-- Self control
+
 
 Progress coin
 ----------------------------------------------
