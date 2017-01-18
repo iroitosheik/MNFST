@@ -167,10 +167,9 @@ Skill set
 
 **`Blurred boundaries`**
 
-In this fast moving society, adaptation is key. Your set of skills is your only weapons. Don't settle for the one that were given to you by others, seek for new ones or create them.
+In this fast moving society, adaptation is key. Your set of skills is your only weapons. Don't settle for the one that were given to you by others, seek for new ones or create them. We only grow old when we stop learning.
 
-Be proud of pluridisciplinarity, create a common language, be the best intermediary. We only grow old when we stop learning.
-
+Be proud of pluridisciplinarity, create a common language, be the best intermediary. 
 Sharpen, craft and use your skills to adapt and survive.
 
 
@@ -182,6 +181,7 @@ Harmony
 The lines between what is "online" and "offline", and the line between "ideas" and a "final products" are losing meaning. Real, digital and conceptual must make one coherent all
 
 The first line is destroyed by phygital, a two way inspiration flux that will shape future experiences : the real world taking inspiration from the web and vice-versa.
+
 The second line, the delay between an idea and a final product is now ridiculous compared to old standards. Also, no product is truly finished, and we all are beta testers for the V2.
 
 Also, we should no longer differentiate a product from a service, as everything now should be a mixed experience.
