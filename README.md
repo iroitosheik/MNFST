@@ -221,8 +221,10 @@ Thanks to the powerful digital revolution we are experiencing, action is now eas
 - We fix giant problems collectively.
 - Consumers are now actors.
 - Artists have a giant stage to perform on.
+- Free content, method and tools are everywhere
 
 We could go on and on with that list of massive changes. 
+
 Nevermind your age, skills or budget. No more excuses of places, time and tools. 
 
 It all goes down to will and wifi.
