@@ -169,7 +169,8 @@ Skill set
 
 In this fast moving society, adaptation is key. Your set of skills is your only weapons. Don't settle for the one that were given to you by others, seek for new ones or create them. We only grow old when we stop learning.
 
-Be proud of pluridisciplinarity, create a common language, be the best intermediary. 
+Be proud of pluridisciplinarity, create a common language, be the best intermediary.
+
 Sharpen, craft and use your skills to adapt and survive.
 
 
