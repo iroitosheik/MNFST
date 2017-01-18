@@ -7,25 +7,25 @@ Reading these 'messages from the past' brings me positive thinking
 
 ## Content table
 
-- Progress coin
-- Counter intuitiveness
-- Modesty
-- Censorship
-- Action
-- Decoding and hacking
-- Subcultures and empathy
-- Risk Taking
-- Craziness
-- Inspiration, creativity, curiosity
-- Constraints
-- Work & fun
-- Failure
-- Process
-- Skill set
-- Harmony
-- Difference
-- Details
-- Accessibility
+- [Progress coin](https://github.com/iroitosheik/MNFST/blob/master/README.md#progress-coin)
+- [Counter intuitiveness](https://github.com/iroitosheik/MNFST/blob/master/README.md#counter-intuitiveness)
+- [Modesty](https://github.com/iroitosheik/MNFST/blob/master/README.md#modesty)
+- [Censorship](https://github.com/iroitosheik/MNFST/blob/master/README.md#censorship)
+- [Action](https://github.com/iroitosheik/MNFST/blob/master/README.md#action)
+- [Decoding and hacking](https://github.com/iroitosheik/MNFST/blob/master/README.md#decoding-and-hacking)
+- [Subcultures and empathy](https://github.com/iroitosheik/MNFST/blob/master/README.md#subcultures-and-empathy)
+- [Risk Taking](https://github.com/iroitosheik/MNFST/blob/master/README.md#risk-taking)
+- [Craziness](https://github.com/iroitosheik/MNFST/blob/master/README.md#craziness)
+- [Inspiration, creativity, curiosity](https://github.com/iroitosheik/MNFST/blob/master/README.md#inspiration-creativity-curiosity)
+- [Constraints](https://github.com/iroitosheik/MNFST/blob/master/README.md#constraints)
+- [Work & fun](https://github.com/iroitosheik/MNFST/blob/master/README.md#work--fun)
+- [Failure](https://github.com/iroitosheik/MNFST/blob/master/README.md#failure)
+- [Process](https://github.com/iroitosheik/MNFST/blob/master/README.md#process)
+- [Skill set](https://github.com/iroitosheik/MNFST/blob/master/README.md#skill-set)
+- [Harmony](https://github.com/iroitosheik/MNFST/blob/master/README.md#harmony)
+- [Difference](https://github.com/iroitosheik/MNFST/blob/master/README.md#difference)
+- [Details](https://github.com/iroitosheik/MNFST/blob/master/README.md#details)
+- [Accessibility](https://github.com/iroitosheik/MNFST/blob/master/README.md#accessibility)
 
 
 Progress coin
