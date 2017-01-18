@@ -1,15 +1,11 @@
 # MNFST
 *my manifesto for work life*
 
-**NOT FINISHED**
-
 Notions that take a massive place in my work philosophy.
 
 Reading these 'messages from the past' brings me positive thinking
 
 ## Content table
-
-Present : 
 
 - Progress coin
 - Counter intuitiveness
@@ -24,13 +20,11 @@ Present :
 - Constraints
 - Work & fun
 - Failure
-
-Left to do : 
-
 - Process
 - Skill set
 - Harmony
 - Difference
+- Details
 - Accessibility
 
 
@@ -158,4 +152,78 @@ Failure
 In European culture we tend to be afraid of failure. And its hard to get your head wrapped around the idea that there is nothing to be afraid of in failure. Life is an experiment an sometimes these things go wrong and the chemist just take another sample with new knowledge in mind.
 
 Don't seek failure but use it as a rocket towards success.
+
+
+Process
+----------------------------------------------
+
+**`Workflow Fluency`**
+
+Focused on the end of the line, on the final result, we are used to skip the methods. Rush, sprint and chaos can have benefits, but questioning the process can only lead to better products..
+
+
+Skill set
+----------------------------------------------
+
+**`Blurred boundaries`**
+
+In this fast moving society, adaptation is key. Your set of skills is your only weapons. Don't settle for the one that were given to you by others, seek for new ones or create them.
+
+Be proud of pluridisciplinarity, create a common language, be the best intermediary. We only grow old when we stop learning.
+
+Sharpen, craft and use your skills to adapt and survive.
+
+
+Harmony
+----------------------------------------------
+
+**`Harmony is everything`**
+
+The lines between what is "online" and "offline", and the line between "ideas" and a "final products" are losing meaning. Real, digital and conceptual must make one coherent all
+
+The first line is destroyed by phygital, a two way inspiration flux that will shape future experiences : the real world taking inspiration from the web and vice-versa.
+The second line, the delay between an idea and a final product is now ridiculous compared to old standards. Also, no product is truly finished, and we all are beta testers for the V2.
+
+Also, we should no longer differentiate a product from a service, as everything now should be a mixed experience.
+
+Apart from fluidity and impact, the key to a good experience is harmony.
+
+
+Details
+-------------------------------------------------
+
+**`Every details counts`**
+
+Concerning products ( or services ), perfection lies in the little details and the special attentions. Sure, raw and efficient products can be attractive but polished finishes tells the tale.
+
+
+Difference
+----------------------------------------------
+
+**`Stepping out of the crowd`**
+
+Differentiation is one of the last advantage a company can have on its competitors, so it should be a main focus point. 
+
+It's becoming harder and harder to be heard, meaning changes and differences shall be more and more radical. 
+
+Remember than human mind craves for difference.
+
+
+Accessibility
+----------------------------------------------
+
+**`Barriers are down`**
+
+Thanks to the powerful digital revolution we are experiencing, action is now easier. 
+
+- Learning and knowledge are a click away.
+- We fix giant problems collectively.
+- Consumers are now actors.
+- Artists have a giant stage to perform on.
+
+We could go on and on with that list of massive changes. 
+Nevermind your age, skills or budget. No more excuses of places, time and tools. 
+
+It all goes down to will and wifi.
+
 
