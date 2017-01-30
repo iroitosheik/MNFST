@@ -110,7 +110,7 @@ Craziness
 
 **`It's a fine line between goodness and madness`**
 
-To change the rules, and redefine the game, you may have to move the lines. To the outside world you will look first foolish and ludicrous, than dangerous and subversive, and finally trivial and obvious.
+To change the rules, and redefine the game, you may have to move the lines. To the outside world you will look first foolish and ludicrous, then dangerous and subversive, and finally trivial and obvious.
 
  
 Inspiration, creativity, curiosity
@@ -149,7 +149,7 @@ Failure
 
 **`Failures are catalysts`**
 
-In European culture we tend to be afraid of failure. And its hard to get your head wrapped around the idea that there is nothing to be afraid of in failure. Life is an experiment an sometimes these things go wrong and the chemist just take another sample with new knowledge in mind.
+In European culture we tend to be afraid of failure. And its hard to get your head wrapped around the idea that there is nothing to be afraid of in failure. Life is an experiment an sometimes these things go wrong. That's when the chemist take another sample with new knowledge in mind.
 
 Don't seek failure but use it as a rocket towards success.
 
